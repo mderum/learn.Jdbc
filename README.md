@@ -1,3 +1,14 @@
+
+
+
+![{42054AAE-37D7-41D0-A62B-AB2F02B08F80}](https://github.com/user-attachments/assets/8aaae942-abb5-4985-ab76-29636883a0cc)
+
+
+
+
+
+
+
 Docker commands 
 # docker run --name give name of container(any) -e (set environment variable) MYSQL_ROOT_PASSWORD password will be saved in this variable
 # -d run in background 
